@@ -7,3 +7,5 @@ def sum_even_numbers(numbers: Iterable[int]) -> int:
         num for num in numbers
         if num % 2 == 0
     )
+
+print("allo?")
